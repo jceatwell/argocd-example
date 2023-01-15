@@ -44,3 +44,5 @@ kubectl -n argocd get applications
 * ArgoCD Github Repo [https://github.com/argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 
 * ArgoCD Custom Resource Definitions [https://github.com/argoproj/argo-cd/tree/master/manifests/crds](https://github.com/argoproj/argo-cd/tree/master/manifests/crds)
+
+* Information on HorizontalPodAutoscaler [https://www.densify.com/kubernetes-tools/kustomize](https://www.densify.com/kubernetes-tools/kustomize)
